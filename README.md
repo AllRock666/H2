@@ -287,12 +287,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏆 Hackathon Team
-
-- Lead Developer: [Your Name]
-- Security Architect: [Name]
-- UI/UX Designer: [Name]
-- Quality Assurance: [Name]
 
 ## 🌟 Acknowledgments
 
@@ -306,3 +300,4 @@ Special thanks to:
 *CertiWipe Pro - Securing Data Destruction for the Enterprise*
 
 © 2025 Your Organization. All Rights Reserved.
+
